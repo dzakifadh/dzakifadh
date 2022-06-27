@@ -1,6 +1,6 @@
 ### Hi there 👋, and welcome to my GitHub profile!
 
-I'm Dzaki, a frontend web developer from Jepara, Indonesia.
+I'm Dzaki, a frontend web developer from Jepara, Indonesia. You look at my repo is very slight right? Of course, most my repo are on private access, and I will create some awesome public repo soon! ✨
 
 <!--
 **dzakifadh/github-homepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
