@@ -7,7 +7,7 @@ I'm Dzaki, a frontend web developer from Jepara, Indonesia. You look at my repo 
 Here are some ideas to get you started:
 -->
 
-- :pushpin: I’m currently working on [Good City Foundation](https://goodcityfoundation.org/) & some side projects
+- :pushpin: I’m currently working at [Nortale](http://nortale.com/) as a full time & [Good City Foundation](https://goodcityfoundation.org/) as a part time, with some side projects
 - :eyes: I’m currently interested with **Typescript**
 - :inbox_tray: Wanna to say hi? Reach me at https://www.linkedin.com/in/dzakifadh/
 <!-- - 👯 I’m looking to collaborate on ... -->
