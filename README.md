@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - :eyes: I’m currently interested with [playwright](https://playwright.dev/) and [jest](https://jestjs.io/)
 - :inbox_tray: Wanna to say hi? Reach me at https://www.linkedin.com/in/dzakifadh/
 
+![](https://komarev.com/ghpvc/?username=dzakifadh)
+
 ### Favourite Weapons ⚔
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
