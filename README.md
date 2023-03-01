@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 ### Github Stats 📊
 
-[![Readme Stats](https://github-readme-stats-cxsq5ilpr-dzakifadh.vercel.app/api?username=dzakifadh&show_icons=true&theme=tokyonight&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Stats](https://github-readme-stats-dzakifadh.vercel.app/api?username=dzakifadh&show_icons=true&theme=tokyonight&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-cxsq5ilpr-dzakifadh.vercel.app/api/top-langs/?username=dzakifadh&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dzakifadh.vercel.app/api/top-langs/?username=dzakifadh&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
