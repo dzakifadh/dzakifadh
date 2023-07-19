@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 [![Dzaki's GitHub stats](https://github-readme-stats-fadhdzaki.vercel.app/api?username=dzakifadh&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/dzakifadh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-fadhdzaki.vercel.app/api/top-langs/?username=dzakifadh&hide=html&layout=compact&theme=tokyonight)](https://github.com/dzakifadh/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats-fadhdzaki.vercel.app/api/top-langs/?username=dzakifadh&hide=html&layout=compact&theme=tokyonight)](https://github.com/dzakifadh/github-readme-stats)-->
